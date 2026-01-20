@@ -1,0 +1,11 @@
+{
+  "name": "sba13",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^7.0.0"
+  }
+}
